@@ -1,4 +1,4 @@
-# Chameleon Technical Exercise: Request processing
+# Chameleon Technical Exercise: Request Processing
 Link to the [technical exercise](https://gist.github.com/bnorton/fbaa35d301138fbdf2ba0d095ebd1c1b)
 
 ## Requirements
